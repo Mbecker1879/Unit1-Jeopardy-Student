@@ -1,9 +1,5 @@
 body {
-  background: linear-gradient(
-    181.2deg,
-    rgb(181, 239, 249) 10.5%,
-    rgb(254, 254, 254) 86.8%
-  );
+  background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
 }
 
 h1 {
@@ -86,4 +82,10 @@ footer {
   width: 75px;
   padding-left: 1360px;
   margin-top: 40px;
+}
+
+.prevRound {
+  text-align: left;
+  height: 40px;
+  width: 75px;
 }
