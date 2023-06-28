@@ -58,6 +58,10 @@ h2 {
   text-align: center;
 }
 
+.buttons:hover {
+  cursor: pointer;
+}
+
 .guess {
   margin-right: 40px;
 }

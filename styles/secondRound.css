@@ -88,4 +88,7 @@ footer {
   text-align: left;
   height: 40px;
   width: 75px;
+  position: absolute;
+  left: 40px;
+  bottom: 10px;
 }
